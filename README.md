@@ -28,18 +28,17 @@ To enhance this project, incorporating a web app would be highly beneficial. Thi
 
 I never would have imagined I could create a map like this; it was definitely a rewarding learning experience. Throughout the process of developing this 3D map, I was thrilled to see it improve over time. I mastered valuable tools such as the environments geoprocessing tool, raster to polygon conversion, and the use of RPK files, among others. The end result was impressive, and I gained a deeper understanding of the many ways GIS can be used to convey complex topics. With this newfound knowledge, I am now equipped to create more detailed and impactful 3D maps to address various global issues.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## More Projects:
+Take a look at these other projects that I have in my own portfolio:
 
-**ThermaRisk:** [ThermaRisk: Mapping Urban Heat Risk in Athens](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ThermaRisk)
+**Ayesha Hair Salon:** [Ayesha Hair Salon](https://github.com/NomadCode33/DevChronicles/tree/main/Ayesha-Hair-Salon)
 
-**OsoShift:** [OsoShift: Oso Landslide Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
+**Level Ground:** [Level Ground](https://github.com/NomadCode33/DevChronicles/tree/main/Level-Ground)
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
 ## Repositories
 **Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Climate Action Repository:** [GreenMap Initiative](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative)
+**Climate Action Repository:** [GreenMap Initiative](https://github.com/NomadCode33/DevChronicles)
 
 **Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
